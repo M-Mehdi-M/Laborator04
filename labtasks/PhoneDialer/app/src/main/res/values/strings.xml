@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhoneDialer</string>
+    <string name="hangup_button_desc">Hang up</string>
+    <string name="call_button_desc">Hang up</string>
+    <string name="backspace_button_desc">Hang up</string>
+    <string name="phone_error">Phone field must not be empty.</string>
+    <string name="contacts_button_desc">Contacts</string>
+    <string name="phone_number_field_desc">Phone number</string>
+</resources>
